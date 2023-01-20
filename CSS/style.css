@@ -1,3 +1,10 @@
-.bikerz-zone-light-red{
+.bikerz-zone-light-red {
     background-color: rgba(255, 0, 0, 0.349);
+}
+
+.bikerz-title-color {
+    color: #E76F51;
+}
+.star{
+    width: 20px;
 }
